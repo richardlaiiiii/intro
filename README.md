@@ -1,2 +1,2 @@
-#intro \n 
+#intro 
 about me.
